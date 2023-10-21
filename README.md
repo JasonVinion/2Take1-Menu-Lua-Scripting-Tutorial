@@ -2,6 +2,10 @@
 
 Welcome to this beginner's guide on Lua scripting for the 2Take1 GTA V mod menu! This tutorial is aimed at individuals with no prior coding experience. Our goal is to get you comfortable with creating and running basic Lua scripts for the 2Take1 menu in just 30-45 minutes!
 
+total views: [![HitCount](https://hits.dwyl.com/JasonVinion/2Take1-Menu-Lua-Scripting-Tutorial.svg?style=flat-square)](http://hits.dwyl.com/JasonVinion/2Take1-Menu-Lua-Scripting-Tutorial)
+
+unique views: [![HitCount](https://hits.dwyl.com/JasonVinion/2Take1-Menu-Lua-Scripting-Tutorial.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JasonVinion/2Take1-Menu-Lua-Scripting-Tutorial)
+
 ## What You'll Learn
 
 This guide contains six tutorial files that you can download, covering a range of topics:
